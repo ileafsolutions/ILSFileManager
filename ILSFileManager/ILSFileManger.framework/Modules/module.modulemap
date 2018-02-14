@@ -1,0 +1,11 @@
+framework module ILSFileManger {
+  umbrella header "ILSFileManger.h"
+
+  export *
+  module * { export * }
+}
+
+module ILSFileManger.Swift {
+    header "ILSFileManger-Swift.h"
+    requires objc
+}
