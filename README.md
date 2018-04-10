@@ -30,6 +30,9 @@ ILSFileManager also helps to get know of your device diskspac
 3. Please Set Enable Bitcode as NO during app submission
 4. Import ILSFileManager to your respective Classes
 
+## Note
+- Use the ILSFileManager.framework in the folder 'AppStore Submission Framework' when you are submitting your application to the appstore
+
 
 
 ## Usage
